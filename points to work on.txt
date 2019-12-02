@@ -1,0 +1,10 @@
+#anti should be red                                             + 
+#blue pro brexit						+
+#look for change in stance from real data			+
+#methodology section						+
+headlines and captions for graphs				+
+stance graph to one line color change				+ 
+live events at time for changing of stance(heidi,stephen)	+
+raw data +preprocessed data(segregate against and protweets)	+
+
+sentiment scores spelling					+
